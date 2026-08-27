@@ -25,11 +25,6 @@ Which file do you need?
 - 🔒 **Private & secure** — no accounts, no cloud servers, no data collection
 - 💻 **One companion app** on each side of the connection
 
-## 🔗 Links
-
-- **Main project (source code):** [rkobroo/screenmirror](https://github.com/rkobroo/screenmirror)
-- **Landing page / website:** https://mirrorlink.app
-
 ## 📦 Releases
 
 Every time a new version is released on the main repo, the Android APK and Windows installer are published here automatically.
